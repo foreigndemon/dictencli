@@ -103,7 +103,7 @@ Namespace Gst not available:
 
   
 
-*These are the known issues that I had encountered in 'pronunciation', if you face any other issue or wan't to get in contact, feel free to mail at 'nikhilomkar99@gmail.com'. Thanks* 🙌🏻.
+*These are the known issues that I had encountered in 'pronunciation', if you face any other issue or wan't to get in contact, feel free to mail at 'nikhil123omkar@gmail.com'. Thanks* 🙌🏻.
 
   
 
